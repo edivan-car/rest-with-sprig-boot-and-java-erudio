@@ -1,0 +1,2 @@
+spring.application.name: rest-with-sprig-boot-and-java-erudio
+server.port: 8090
